@@ -1,4 +1,4 @@
-package fr.diginamic.interfaces;
+package fr.diginamic.interfaces_J5_J6;
 
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package fr.diginamic.interfaces;
+package fr.diginamic.interfaces_J5_J6;
 
 public interface ObjetGeometrique {
 

@@ -1,4 +1,4 @@
-package fr.diginamic.interfaces;
+package fr.diginamic.interfaces_J5_J6;
 public class Rectangle implements ObjetGeometrique {
 
     protected double longueur;

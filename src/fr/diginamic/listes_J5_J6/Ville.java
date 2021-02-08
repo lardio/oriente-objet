@@ -1,4 +1,4 @@
-package fr.diginamic.listes;
+package fr.diginamic.listes_J5_J6;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
 package fr.diginamic.maps;
 
-import fr.diginamic.listes.Ville;
+import fr.diginamic.listes_J5_J6.Ville;
 
 import java.util.*;
 
